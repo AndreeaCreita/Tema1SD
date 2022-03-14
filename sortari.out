@@ -1,0 +1,82 @@
+Numarul de teste efectuate: 9
+Vom sorta 1000 numere
+Numarul maxim este: 1000
+
+ShellSort:  0 milisecunde.  Sortare corecta (1 / 0): 1
+MergeSort:  0 milisecunde.  Sortare corecta (1 / 0): 1
+CountSort a fost efectuat in 0 milisecunde. Sortare corecta (1 / 0): 1
+RadixSort  0 milisecunde. Sortare corecta (1 / 0): 1
+QuickSort 0 milisecunde. Sortare corecta (1 / 0):1
+
+Vom sorta 1000 numere
+Numarul maxim este: 1000000
+
+ShellSort:  0 milisecunde.  Sortare corecta (1 / 0): 1
+MergeSort:  0 milisecunde.  Sortare corecta (1 / 0): 1
+CountSort a fost efectuat in 5 milisecunde. Sortare corecta (1 / 0): 1
+RadixSort  1 milisecunde. Sortare corecta (1 / 0): 1
+QuickSort 0 milisecunde. Sortare corecta (1 / 0):1
+
+Vom sorta 10000 numere
+Numarul maxim este: 1000000
+
+ShellSort:  1 milisecunde.  Sortare corecta (1 / 0): 1
+MergeSort:  1 milisecunde.  Sortare corecta (1 / 0): 1
+CountSort a fost efectuat in 4 milisecunde. Sortare corecta (1 / 0): 1
+RadixSort  0 milisecunde. Sortare corecta (1 / 0): 1
+QuickSort 1 milisecunde. Sortare corecta (1 / 0):1
+
+Vom sorta 100000 numere
+Numarul maxim este: 1000000
+
+ShellSort:  23 milisecunde.  Sortare corecta (1 / 0): 1
+MergeSort:  17 milisecunde.  Sortare corecta (1 / 0): 1
+CountSort a fost efectuat in 7 milisecunde. Sortare corecta (1 / 0): 1
+RadixSort  14 milisecunde. Sortare corecta (1 / 0): 1
+QuickSort 20 milisecunde. Sortare corecta (1 / 0):1
+
+Vom sorta 1000000 numere
+Numarul maxim este: 1000
+
+ShellSort:  336 milisecunde.  Sortare corecta (1 / 0): 1
+MergeSort:  215 milisecunde.  Sortare corecta (1 / 0): 1
+CountSort a fost efectuat in 12 milisecunde. Sortare corecta (1 / 0): 1
+RadixSort  80 milisecunde. Sortare corecta (1 / 0): 1
+QuickSort 4042 milisecunde. Sortare corecta (1 / 0):1
+
+Vom sorta 1000000 numere
+Numarul maxim este: 1000000
+
+ShellSort:  343 milisecunde.  Sortare corecta (1 / 0): 1
+MergeSort:  246 milisecunde.  Sortare corecta (1 / 0): 1
+CountSort a fost efectuat in 37 milisecunde. Sortare corecta (1 / 0): 1
+RadixSort  155 milisecunde. Sortare corecta (1 / 0): 1
+QuickSort 287 milisecunde. Sortare corecta (1 / 0):1
+
+Vom sorta 10000000 numere
+Numarul maxim este: 100000
+
+ShellSort:  4592 milisecunde.  Sortare corecta (1 / 0): 1
+MergeSort:  2335 milisecunde.  Sortare corecta (1 / 0): 1
+CountSort a fost efectuat in 200 milisecunde. Sortare corecta (1 / 0): 1
+RadixSort  1069 milisecunde. Sortare corecta (1 / 0): 1
+QuickSort 12722 milisecunde. Sortare corecta (1 / 0):1
+
+Vom sorta 10000000 numere
+Numarul maxim este: 10000000
+
+ShellSort:  3891 milisecunde.  Sortare corecta (1 / 0): 1
+MergeSort:  1945 milisecunde.  Sortare corecta (1 / 0): 1
+A fost depasita limita de 1000000 de numere pentru CountSort
+RadixSort  1195 milisecunde. Sortare corecta (1 / 0): 1
+QuickSort 11318 milisecunde. Sortare corecta (1 / 0):1
+
+Vom sorta 10000000 numere
+Numarul maxim este: 100000000
+
+ShellSort:  4037 milisecunde.  Sortare corecta (1 / 0): 1
+MergeSort:  1883 milisecunde.  Sortare corecta (1 / 0): 1
+A fost depasita limita de 1000000 de numere pentru CountSort
+RadixSort  1443 milisecunde. Sortare corecta (1 / 0): 1
+QuickSort 11364 milisecunde. Sortare corecta (1 / 0):1
+
